@@ -9,7 +9,7 @@ module.exports = {
 
     discord: {
         prefix: '!',
-        token: 'OTA5ODQ1NzMwMzUxNTQyMzAy.YZKN3g.OptBDeMxHiq1T22a6FhOHElmLlc',
+        token: 'OTA5ODQ1NzMwMzUxNTQyMzAy.YZKN3g.V7W1UfrkSryo7aWwStLqJSuzzJM',
         activity: 'codeshare.xyz',
     },
 
